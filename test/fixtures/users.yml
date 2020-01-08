@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  identifier: MyString
+  avatars: MyString
+  date_of_birdth: 2019-11-25
+  gender: false
+  intro: MyText
+
+two:
+  identifier: MyString
+  avatars: MyString
+  date_of_birdth: 2019-11-25
+  gender: false
+  intro: MyText
